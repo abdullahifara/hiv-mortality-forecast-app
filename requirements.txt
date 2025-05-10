@@ -1,0 +1,15 @@
+# Core Streamlit app
+streamlit==1.32.2
+
+# Data and visualization
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# ARIMA modeling
+statsmodels
+
+
+
